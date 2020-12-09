@@ -12,6 +12,6 @@
         android:src="@drawable/ic_splash_image"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        />
+        android:contentDescription="@string/splash_screen_image" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
